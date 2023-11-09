@@ -135,3 +135,5 @@ The following steps initiate and complete a file transfer with the provided test
 ## Contributing
 
 See [how to contribute](https://github.com/eclipse-edc/Connector/blob/main/CONTRIBUTING.md).
+
+TEST TEST TEST TEST TEST
